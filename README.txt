@@ -1,7 +1,7 @@
 Some changes need to be made to the web server configuration (in this case, Apache) in order to run the python scripts.
 
 1. Install mod python
-
+hiii
         apt-get install libapache2-mod-python
 
 2. Add Following lines to /etc/apache2/sites-available/default
